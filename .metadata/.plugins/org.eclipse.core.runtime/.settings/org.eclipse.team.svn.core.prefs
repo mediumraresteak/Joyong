@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+externalMigrateFromAuthorizationDatabase/isMigrated=true
+migrateFromAuthorizationDatabase/isMigrated=true
+repositories/e0689e21a3730013109c89ebf0992ba2=e0689e21a3730013109c89ebf0992ba2;https\://dev.naver.com/svn/quadcore;https\://dev.naver.com/svn/quadcore;branches;tags;trunk;true;1031b3a0-4f58-4fa2-9ba1-ab7cfacdea3d;https\://dev.naver.com/svn/quadcore;;false;;;0
